@@ -4,7 +4,7 @@ module.exports = {
   title:'空无的博客',
   description:'让全栈编程更容易！',
   head:[
-    ['link', { rel: 'icon', href: 'favicon.ico' }],
+    // ['link', { rel: 'icon', href: 'favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ],
   themeConfig: {
@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         text: 'github',
-        link: 'https://github.com/kongwutw/'
+        link: 'https://github.com/haoruit1/'
       },
     ],
     sidebar: {

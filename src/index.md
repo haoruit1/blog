@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /logo.png
 actionText: 热点技术
 actionLink: /tech/
 
