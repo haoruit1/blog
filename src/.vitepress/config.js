@@ -7,7 +7,7 @@ module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
   base:'/blog/',
-  title: '叽叽喳喳',
+  title: '神明少女',
   description: '让全栈编程更容易~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/smsv.jpeg' }]],
   themeConfig: {
