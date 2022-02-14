@@ -1,7 +1,7 @@
 ---
 title: 学习文档
 home: true
-heroImage: /img/smsv.jpeg
+heroImage: /img/  smsv.png
 actionText: 开始学习
 actionLink: /js/1
 features:

@@ -9,10 +9,10 @@ module.exports = {
   base:'/blog/',
   title: '神明少女',
   description: '让全栈编程更容易~',
-  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/smsv.jpeg' }]],
+  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/  smsv.png' }]],
   themeConfig: {
     repo: 'haoruit1/blog',
-    logo: '/smsv.jpeg',
+    logo: '/  smsv.png',
     docsDir: 'docs',
     docsBranch: 'main',
     nav: [
