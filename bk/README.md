@@ -6,7 +6,7 @@ actionText: 开始学习
 actionLink: /js/1
 features:
 - title: 正直
-  details: 热爱并践行优秀中文传统文化，常年组织和参与各种公益活动.
+  details: 热爱并践行优秀中文传统文化，常年组织和参与各种公益活动!
 - title: 专业
   details: 热爱编程，苦修基本功，立志开发维护让自己做梦都笑出声的代码！
 - title: 高效
