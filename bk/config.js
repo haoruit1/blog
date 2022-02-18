@@ -18,6 +18,7 @@ module.exports = {
     nav: [
       { text: '技术文章', link: '/tech/' },
       { text: '管理笔记', link: '/manage/' },
+      { text: '大数据可视化', link: '/bigdata/' },
       { text: '关于小编', link: '/about/' },
       {
         text: '常用网址',
@@ -106,6 +107,17 @@ module.exports = {
             },
           ]
         },
+      ],
+      '/bigdata': [
+        {
+          text: '大数据可视化',
+          children: [
+            {
+              text: '认识大数据',
+              link: '/bigdata/big/why'
+            },
+          ]
+        } 
       ],
       '/manage': [
         {
