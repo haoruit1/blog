@@ -13,7 +13,8 @@ npm start
 ## 部署
 在根目录下执行：
 ```
-npm run pd
+npm run pb
+npm run pc
 ```
 访问地址：
 [https://haoruit1.github.io/blog/](https://haoruit1.github.io/blog/)
